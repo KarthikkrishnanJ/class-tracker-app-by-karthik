@@ -38,6 +38,8 @@ Planned improvements:
 * React
 * Vite
 * JavaScript
+* Vercel
+* Supabase
 
 ## Status
 
