@@ -1,11 +1,39 @@
+# Class Tracker Web
 
-  # Class Tracker App
+A modern student productivity and class management website.
 
-  This is a code bundle for Class Tracker App. The original project is available at https://www.figma.com/design/8gK1hlD5ov37PMb4rbvjZy/Class-Tracker-App.
+## Current Version
 
-  ## Running the code
+### V1
 
-  Run `npm i` to install the dependencies.
+* Attendance tracking
+* Study timer
+* Timetable system
+* Notes and productivity tools
+* Responsive interface
 
-  Run `npm run dev` to start the development server.
-  
+## Upcoming
+
+### V2 (In Development)
+
+Planned improvements:
+
+* Better UI/UX
+* Faster performance
+* More customization
+* Improved analytics
+* Enhanced study tools
+
+## Screenshots
+
+(Add screenshots here)
+
+## Tech Stack
+
+* React
+* Vite
+* JavaScript
+
+## Status
+
+Actively developed.
