@@ -33,6 +33,8 @@ Note : For users switching accounts please go to Manage tab, inside data tab, se
 
 If any issues or need to reset password (this feature hasn't been implemented yet, upcoming in v2.0.0), feel free to contact me at karthikkrishnanjayakrishnan@gmail.com or report on the discussions page or follow this link "https://github.com/KarthikkrishnanJ/class-tracker-app-by-karthik/discussions/4#discussion-10172051"
 
+Join us on discord @ https://discord.gg/rCK2Psnk
+
 ## Current Version
 
 ### V1
