@@ -82,7 +82,7 @@ Join us on discord @ https://discord.gg/rCK2Psnk, for any issues or concerns, fe
 * JavaScript
 * Vercel
 * Supabase
-* Figma
+* Figma AI
 
 ## Status
 
