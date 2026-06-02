@@ -37,7 +37,7 @@ Join us on discord @ https://discord.gg/rCK2Psnk, for any issues or concerns, fe
 
 ## Current Version
 
-### V1
+### v2.0.0
 
 * Attendance tracking
 * Study timer
@@ -45,19 +45,27 @@ Join us on discord @ https://discord.gg/rCK2Psnk, for any issues or concerns, fe
 * Timetable system
 * Notes and productivity tools
 * Responsive interface
+* Task and assignment tracking
+* Customizable UI
+* Clean modern UI
+* Dark mode support
+* Responsive design
+* Timetable management
+* Productivity-focused dashboard
+* Gamication Features :
+  * Profile + Bio
+  * Badges
+  * Focus Garden
+* New Focus page with :
+  * 25m timer
+  * Ambient sound
+* Calendar + Events
+* Overhauled push notification system with alerts for :
+  * Task Completion
+  * Event Completion(calendar events)
+  * Badges Earned
+  * Class reminders
 
-## Upcoming
-
-### V2 (In Development)
-
-Planned improvements:
-
-* Better UI/UX
-* Faster performance
-* More customization
-* Improved analytics
-* Enhanced study tools
-* Password reset feature
 
 ## Screenshots(v1.0.0)
 
