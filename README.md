@@ -3,7 +3,7 @@
 A modern student productivity and class management website.
 
 ### Website :
-https://class-tracker-app-by-karthik.vercel.app
+[https://class-tracker-app-by-karthik.vercel.app](https://class-track-by-karthik.vercel.app)
 
 ### Getting Started :
 
